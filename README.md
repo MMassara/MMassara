@@ -9,6 +9,7 @@ I'm driven by continuous learning and believe in the power of collaboration. I'm
 I'm currently open to connections, collaborations, and opportunities that lead to mutual growth. 🚀
 
 🛠️ Technologies
+
 Front-end
 React · Vue.js · Vuetify · Tailwind CSS
 
